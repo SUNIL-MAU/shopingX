@@ -1,0 +1,102 @@
+const products = [
+    {
+        "id": 1,
+        "name": "RAEGR Shield by ESR MacBook Pro 16-Inch",
+        "image": "/img/MacBook_Pro_16-Inch.jpg",
+        "brand": "Apple",
+        "category": "Electronics",
+        "description": "COMPATIBILITY – Designed exclusively for the MacBook Pro 16-inch with Touch Bar & Touch ID (model number A2141, 2019 release). NOT compatible with any other models. Your MacBook model number can be found on the back of the laptop.\r\nLOW-PROFILE PROTECTION – Made with high-quality, lightweight polycarbonate (PC). Frosted Clear hard shell with a matte finish shows off your MacBook’s shape and logo, while also keeping it free of fingerprints and scratches.",
+        "rating": "4.00",
+        "numReviews": 33,
+        "price": "398.00",
+        "countInStock": 34,
+        "createdAt": "2021-03-15T06:44:38.992638Z",
+        "user": 1
+    },
+    {
+        "id": 2,
+        "name": "Trendy Garb Leggings Soft Premium Cotton",
+        "image": "/img/51wMGOJRbCL._UL1124_.jpg",
+        "brand": "YEZI",
+        "category": "Bottom Wear",
+        "description": "Comfortable and Cozy: Trendy Garb leggings are made of high quality premium cotton fabric which gives you extra soft and comfortable feel when you wear them. Skin friendly, natural fabric and does not cause irritation even when worn for a long time. They come with a composition of 95% Cotton and 5% Lycra to give you freedom of movement no matter what you’re doing without causing any tear in the fabric. Suitable to wear during all seasons",
+        "rating": "5.00",
+        "numReviews": 9,
+        "price": "299.00",
+        "countInStock": 23,
+        "createdAt": "2021-03-15T06:51:42.083853Z",
+        "user": 1
+    },
+    {
+        "id": 3,
+        "name": "ANNI DESIGNER Women's Raspberry",
+        "image": "/img/71JEpO5VZ6L._UL1500_.jpg",
+        "brand": "ANNI DESIGNER",
+        "category": "cloth",
+        "description": "Care Instructions: Hand wash\r\n1.This three piece set includes kurta, Pant and dupatta.\r\n2.Kurti Description - Rayon Red kurti in handblock print Palazzo Description - Solid Rayon Pant. Dupatta Description - Beige Digital Printed dupatta.\r\n4.Neckline: Sweatheart neck Sleeve: 3/4th sleeves Care: Dry Clean Only Model Size: Model is wearing S Size Model Height",
+        "rating": "3.50",
+        "numReviews": 293,
+        "price": "649.00",
+        "countInStock": 235,
+        "createdAt": "2021-03-16T10:32:21.201139Z",
+        "user": 1
+    },
+    {
+        "id": 4,
+        "name": "vpk kurti Rayon Kurti Palazo and Dupatta Set",
+        "image": "/img/81OC6GEVyYL._UL1500_.jpg",
+        "brand": "vpk kurti Rayon",
+        "category": "cloth",
+        "description": "Care Instructions: Machine Wash\r\nSize :- Kurta (Bust Size) M- 38\" L- 40\" XL- 42\" XXL-44\" Length :- Up to 40\" Sleeves :3/4 sleeve\r\nSize :- Plazzo WAIST REGULAR FIT For 28\" To 46\" This Plazzo Pant Having Elasticated Track with Drawstring - plazzo Length",
+        "rating": "3.90",
+        "numReviews": 267,
+        "price": "710.00",
+        "countInStock": 46,
+        "createdAt": "2021-03-16T10:38:49.568410Z",
+        "user": 2
+    },
+    {
+        "id": 5,
+        "name": "Mokshita Rayon Palazzo pant for women",
+        "image": "/img/45.jpg",
+        "brand": "Mokshita Rayon",
+        "category": "cloth",
+        "description": "Care Instructions: Gentle machine wash\r\nFit Type: Loose\r\nRayon Flared Palazzo Parallel Pant\r\n· Fabric : Soft Rayon fabric , comfortable for all seasons\r\nBottom Opening - 13.5 inches, Palazzo Length Length - 39 inches",
+        "rating": "3.00",
+        "numReviews": 354,
+        "price": "449.00",
+        "countInStock": 345,
+        "createdAt": "2021-03-16T10:41:24.284836Z",
+        "user": 2
+    },
+    {
+        "id": 6,
+        "name": "POPWINGS Women's Relaxed Fit Trousers",
+        "image": "/img/5.jpg",
+        "brand": "POPWINGS",
+        "category": "cloth",
+        "description": "Care Instructions: Do not Bleach\r\nFit Type: Relaxed Fit\r\nFabric: Cotton\r\nStyle: Casual Trousers; Pattern: Solid; Fit: Relaxed Fit\r\nClosure: Hook; Length: Ankle length\r\nStretch: Stretchable; Number of pockets: 2",
+        "rating": "3.60",
+        "numReviews": 353,
+        "price": "488.00",
+        "countInStock": 5776,
+        "createdAt": "2021-03-16T10:43:51.756242Z",
+        "user": 2
+    },
+    {
+        "id": 7,
+        "name": "Saundarya Women's Slim Fit Trousers",
+        "image": "/img/7.jpg",
+        "brand": "Saundarya",
+        "category": "cloth",
+        "description": "Care Instructions: Machine Wash, Do Not Bleach, Dry inside out in Shade\r\nFit Type: Slim\r\nFabric: 97% Cotton, 3% Lycra\r\nStyle : Trouser , Pattern: Solid\r\nRise: Mid Rise, Closure: Elastic, Length: 38 Inches\r\nStretch: Stretchable, Waist Size: M- 28 Inches, L- 30 Inches, XL- 32 Inches, XXL- 34 Inches\r\nNumber of pockets: 2, Occasion Type: Casual/Formal",
+        "rating": "4.30",
+        "numReviews": 67,
+        "price": "499.00",
+        "countInStock": 88,
+        "createdAt": "2021-03-16T10:46:28.396437Z",
+        "user": 2
+    }
+]
+
+export default products
